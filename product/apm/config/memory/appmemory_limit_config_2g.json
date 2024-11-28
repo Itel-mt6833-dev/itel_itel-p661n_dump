@@ -1,0 +1,27 @@
+{
+  "update":20230630,
+  "ver": 2.1,
+  "enable": 1,
+  "ram": 2,
+  "default": 1024,
+  "begin": "02:00:00",
+  "end": "06:00:00",
+  "limit": [
+    {
+      "proc": "com.dts.freefireth",
+      "mem": 800
+    },
+    {
+      "proc": "com.dts.freefiremax",
+      "mem": 800
+    },
+    {
+      "proc": "com.tencent.ig",
+      "mem": 800
+    },
+    {
+      "proc": "com.mobile.legends:UnityKillsMe",
+      "mem": 800
+    }
+  ]
+}

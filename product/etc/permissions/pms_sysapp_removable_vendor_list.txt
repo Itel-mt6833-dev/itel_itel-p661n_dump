@@ -1,0 +1,8 @@
+com.mediatek.vnet
+com.iflytek.inputmethod
+com.hugeland.cdsplus
+com.transsion.compass
+
+com.google.android.apps.docs
+com.google.android.apps.tachyon
+com.google.android.videos
