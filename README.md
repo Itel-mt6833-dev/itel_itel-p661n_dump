@@ -1,0 +1,20 @@
+## sys_tssi_64_armv82_itel-user 13 TP1A.220624.014 610912 release-keys
+- Manufacturer: itel
+- Platform: mt6833
+- Codename: itel-P661N
+- Brand: Itel
+- Flavor: sys_tssi_64_armv82_itel-user
+- Release Version: 13
+- Kernel Version: 4.19.191
+- Id: TP1A.220624.014
+- Incremental: 240516V1027
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Itel/P661N-GL/itel-P661N:12/SP1A.210812.016/240515V87:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_armv82_itel-user-13-TP1A.220624.014-610912-release-keys
+- Repo: itel_itel-p661n_dump
